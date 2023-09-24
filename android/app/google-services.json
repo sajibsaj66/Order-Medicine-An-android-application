@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "715940085474",
+    "project_id": "final-defense-project",
+    "storage_bucket": "final-defense-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715940085474:android:0fa78f42ae326f0af2e8bb",
+        "android_client_info": {
+          "package_name": "com.example.final_defense_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715940085474-455ogoof3u1ipl95at0tpvcelfeopgjj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.final_defense_project",
+            "certificate_hash": "c6ee8442118269c2f4bb9445f392c4f20da8bc36"
+          }
+        },
+        {
+          "client_id": "715940085474-5a9i71bb0koib0la5p1ttdhdl9g1bqhf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZvi4G6kwOmP-C7zmTQbwiW5Tzq_DPVm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715940085474-5a9i71bb0koib0la5p1ttdhdl9g1bqhf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

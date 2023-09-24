@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">715940085474-5a9i71bb0koib0la5p1ttdhdl9g1bqhf.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">715940085474</string>
+    <string name="google_api_key" translatable="false">AIzaSyAZvi4G6kwOmP-C7zmTQbwiW5Tzq_DPVm0</string>
+    <string name="google_app_id" translatable="false">1:715940085474:android:0fa78f42ae326f0af2e8bb</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAZvi4G6kwOmP-C7zmTQbwiW5Tzq_DPVm0</string>
+    <string name="google_storage_bucket" translatable="false">final-defense-project.appspot.com</string>
+    <string name="project_id" translatable="false">final-defense-project</string>
+</resources>
